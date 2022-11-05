@@ -1,0 +1,87 @@
+
+. 5 1 | . 7 . | 9 2 3
+. . 6 | 9 . 2 | 4 1 .
+2 9 3 | . 1 4 | . . 7
+------+-------+------
+. 8 . | . 5 . | 1 . 9
+6 . . | . 9 7 | . . .
+5 1 9 | . . 3 | . 6 .
+------+-------+------
+1 2 5 | . 8 . | . . 6
+. 6 . | . 2 . | . 9 .
+9 3 8 | . . . | . . .
+
+41 cells are unknown
+
+strategy one
+row 2 col 2 must be 7
+row 2 col 5 must be 3
+row 4 col 6 must be 6
+row 5 col 2 must be 4
+row 6 col 5 must be 4
+row 7 col 6 must be 9
+
+strategy one
+row 1 col 6 must be 8
+row 2 col 1 must be 8
+row 4 col 4 must be 2
+row 5 col 3 must be 2
+row 9 col 5 must be 6
+
+strategy one
+row 1 col 1 must be 4
+row 1 col 4 must be 6
+row 2 col 9 must be 5
+row 4 col 3 must be 7
+row 6 col 4 must be 8
+
+strategy one
+row 3 col 4 must be 5
+row 3 col 8 must be 8
+row 4 col 1 must be 3
+row 5 col 4 must be 1
+row 5 col 9 must be 8
+row 6 col 9 must be 2
+row 8 col 1 must be 7
+row 8 col 3 must be 4
+
+strategy one
+row 3 col 7 must be 6
+row 4 col 8 must be 4
+row 6 col 7 must be 7
+row 8 col 4 must be 3
+row 8 col 9 must be 1
+
+strategy one
+row 7 col 7 must be 3
+row 8 col 6 must be 5
+row 9 col 9 must be 4
+
+strategy one
+row 5 col 7 must be 5
+row 7 col 8 must be 7
+row 8 col 7 must be 8
+row 9 col 4 must be 7
+row 9 col 6 must be 1
+
+strategy one
+row 5 col 8 must be 3
+row 7 col 4 must be 4
+row 9 col 7 must be 2
+row 9 col 8 must be 5
+
+4 5 1 | 6 7 8 | 9 2 3
+8 7 6 | 9 3 2 | 4 1 5
+2 9 3 | 5 1 4 | 6 8 7
+------+-------+------
+3 8 7 | 2 5 6 | 1 4 9
+6 4 2 | 1 9 7 | 5 3 8
+5 1 9 | 8 4 3 | 7 6 2
+------+-------+------
+1 2 5 | 4 8 9 | 3 7 6
+7 6 4 | 3 2 5 | 8 9 1
+9 3 8 | 7 6 1 | 2 5 4
+
+ 0 cells are unknown
+
+ta daa!!!

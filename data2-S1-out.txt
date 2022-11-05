@@ -1,0 +1,26 @@
+
+. 5 1 | . 7 . | 9 2 3
+. . 6 | 9 . 2 | 4 1 .
+2 9 3 | . 1 4 | . . 7
+------+-------+------
+. 8 . | . 5 . | 1 . 9
+6 . . | . 9 7 | . . .
+5 1 9 | . . 3 | . 6 .
+------+-------+------
+1 2 5 | 2 8 . | . . 6
+. 6 . | . 2 . | . 9 .
+9 3 8 | 9 . 2 | 2 . 9
+
+36 cells are unknown
+
+set  6 (row 7): 2 instances of 2
+set  8 (row 9): 2 instances of 2
+set  8 (row 9): 3 instances of 9
+set 12 (col 4): 2 instances of 9
+set 14 (col 6): 2 instances of 2
+set 17 (col 9): 2 instances of 9
+set 25 (sqr 8): 3 instances of 2
+set 26 (sqr 9): 2 instances of 9
+
+7 different sets have violations
+8 violations in total
